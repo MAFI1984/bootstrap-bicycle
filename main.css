@@ -1,0 +1,57 @@
+   html{
+  font-size: 62.5%;
+}
+
+body{
+  line-height: 1.6;
+}
+
+
+.navbar{
+  border-bottom:solid .6rem #fff;
+}
+
+.nav-item{
+  margin-right:1rem;
+}
+.nav-link{
+  font-size: 2rem;
+  color:#fff
+}
+
+.navbar-title{
+  font-size: 2rem;
+  text-transform: uppercase;
+  
+}
+
+.navbar-img{
+  height:5rem;
+}
+
+#home{
+  background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(./images/img-16.jpg);
+  background-size: cover;
+  background-position: center;
+  height:100%;
+}
+
+.navbar-btn{
+  border:none;
+  border-radius: 1rem;
+  font-weight: bold;
+  
+}
+
+/* service styling */
+
+
+#contact{
+   background:linear-gradient(rgba(2, 2, 2, 0.4),rgba(0, 0, 0, 0.4)), url(./images/img-1.jpg);
+  background-size: cover;
+  background-position: center;
+  height:100%;
+}
+
+
+
